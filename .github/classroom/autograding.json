@@ -1,0 +1,64 @@
+{
+  "tests": [
+    {
+      "name": "Basic For Loop Activity Exercise 1",
+      "setup": "",
+      "run": "node code.js",
+      "input": "",
+      "output": "Exercise One\\n0\\n1\\n2\\n3\\n4\\n5\\n6\\n7\\n8\\n9",
+      "comparison": "regex",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Basic For Loop Activity Exercise 2",
+      "setup": "",
+      "run": "node code.js",
+      "input": "",
+      "output": "Exercise Two\\n1\\n2\\n3\\n4\\n5\\n6\\n7\\n8\\n9\\n10\\n11\\n12\\n13\\n14\\n15\\n16\\n17\\n18\\n19\\n20",
+      "comparison": "regex",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Basic For Loop Activity Exercise 3",
+      "setup": "",
+      "run": "node code.js",
+      "input": "",
+      "output": "Exercise Three\\n2\\n4\\n6\\n8\\n10\\n12\\n14\\n16\\n18\\n20",
+      "comparison": "regex",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Basic For Loop Activity Exercise 4",
+      "setup": "",
+      "run": "node code.js",
+      "input": "",
+      "output": "Exercise Four\\n-1\\n-2\\n-3\\n-4\\n-5\\n-6\\n-7\\n-8\\n-9\\n-10\\n-11\\n-12\\n-13\\n-14\\n-15\\n-16\\n-17\\n-18\\n-19\\n-20",
+      "comparison": "regex",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Basic For Loop Activity Exercise 5",
+      "setup": "",
+      "run": "node code.js",
+      "input": "",
+      "output": "Exercise Five\\n-20\\n-19\\n-18\\n-17\\n-16\\n-15\\n-14\\n-13\\n-12\\n-11\\n-10\\n-9\\n-8\\n-7\\n-6\\n-5\\n-4\\n-3\\n-2\\n-1",
+      "comparison": "regex",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Basic For Loop Activity Exercise 6",
+      "setup": "",
+      "run": "node code.js",
+      "input": "",
+      "output": "Exercise Six\\n20\\n18\\n16\\n14\\n12\\n10\\n8\\n6\\n4\\n2\\n0\\n-2\\n-4\\n-6\\n-8\\n-10\\n-12\\n-14\\n-16\\n-18\\n-20",
+      "comparison": "regex",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
